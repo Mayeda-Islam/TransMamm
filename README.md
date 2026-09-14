@@ -149,8 +149,8 @@ This repository is actively being developed as part of an undergraduate research
 ## Author
 
 **Mayeda Islam**
-Computer Science and Engineering
-Central University of Science and Technology (CUST)
+<br>Central University of Science and Technology (CUST)
+<br>Computer Science and Engineering
 
 **Research Interests:**
 Machine Learning · Deep Learning · Computer Vision · Medical Imaging · Vision Transformers · Explainable AI
