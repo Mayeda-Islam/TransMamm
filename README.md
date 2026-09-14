@@ -126,7 +126,19 @@ TransMamm/
 
 ---
 
-## Research Goals
+## Technologies
+- Python
+- PyTorch
+- torchvision
+- NumPy
+- Pandas
+- OpenCV
+- scikit-learn
+- Matplotlib
+- Jupyter Notebook
+- kaggle GPU
+
+---
 
 The main objectives of this project are to:
 
